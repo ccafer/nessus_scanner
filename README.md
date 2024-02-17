@@ -70,8 +70,12 @@ Create new DWORD file named LocalAccountTokenFilterPolicy and modify binary valu
 
 Configure creditentials 
 ![image](https://github.com/ccafer/nessus_scanner/assets/61919465/370eb025-bbf7-44ff-8c14-c4a1d2b72ba8)
+
 Restart scan
 ![image](https://github.com/ccafer/nessus_scanner/assets/61919465/3e988754-85e6-4e27-9691-15f818208f4f)
+
+Scan after making VM more vulnerable
+![image](https://github.com/ccafer/nessus_scanner/assets/61919465/b52de2b5-0223-4454-bfa9-f0caaebaa3e0)
 
 
 
