@@ -52,6 +52,15 @@ pro scan
 pro scan, vulnerabilties tab under windows single host scan
 ![image](https://github.com/ccafer/nessus_scanner/assets/61919465/f22e13a8-b402-41f2-9726-a572baa61087)
 
+In Windows VM: 
+Remote Registry>Stat Up Type: Automatic
+Advance Sharing Settings>Turn on file and printer sharing 
+User Account Control>Never Notify
+Registry Edit>Computer>HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\Policies\System
+Create new DWORD file named LocalAccountTokenFilterPolicy and modify binary value to 1
+
+
+
 
 
 
