@@ -38,7 +38,17 @@ Create nessus account
 check email for nessus registration key
 
 create new scan in nessus 
+![image](https://github.com/ccafer/nessus_scanner/assets/61919465/a7f95d0a-7420-40e8-8d32-ee4bf5a0fe4a)
+
+basic network scan
 ![image](https://github.com/ccafer/nessus_scanner/assets/61919465/28a59913-b8ca-4fd1-b229-d49d7e6a57e2)
+
+run the scan
+![image](https://github.com/ccafer/nessus_scanner/assets/61919465/50aab9c3-c9a8-4e1a-addf-22aedfd8f414)
+pre scan
+![image](https://github.com/ccafer/nessus_scanner/assets/61919465/756b6c7a-a831-4554-9f5a-a29932088ad7)
+pro scan
+
 
 
 
