@@ -49,6 +49,9 @@ pre scan
 ![image](https://github.com/ccafer/nessus_scanner/assets/61919465/756b6c7a-a831-4554-9f5a-a29932088ad7)
 pro scan
 ![image](https://github.com/ccafer/nessus_scanner/assets/61919465/37298e6a-8ffc-4934-a768-8d2772fb1648)
+pro scan, vulnerabilties tab under windows single host scan
+![image](https://github.com/ccafer/nessus_scanner/assets/61919465/f22e13a8-b402-41f2-9726-a572baa61087)
+
 
 
 
