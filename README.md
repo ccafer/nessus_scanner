@@ -77,7 +77,9 @@ Restart scan
 Scan after making VM more vulnerable
 ![image](https://github.com/ccafer/nessus_scanner/assets/61919465/b52de2b5-0223-4454-bfa9-f0caaebaa3e0)
 
+![image](https://github.com/ccafer/nessus_scanner/assets/61919465/296f6382-3116-404b-b343-30269488ca30)
 
+![image](https://github.com/ccafer/nessus_scanner/assets/61919465/c3341259-9688-4118-ba18-925294bc6cf1)
 
 
 
