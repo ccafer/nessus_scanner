@@ -52,12 +52,26 @@ pro scan
 pro scan, vulnerabilties tab under windows single host scan
 ![image](https://github.com/ccafer/nessus_scanner/assets/61919465/f22e13a8-b402-41f2-9726-a572baa61087)
 
+
+
 In Windows VM: 
 Remote Registry>Stat Up Type: Automatic
+![image](https://github.com/ccafer/nessus_scanner/assets/61919465/643ec37e-9e1d-4b5d-be4f-bf6d7f231f68)
+
 Advance Sharing Settings>Turn on file and printer sharing 
+![image](https://github.com/ccafer/nessus_scanner/assets/61919465/dc4e0969-7287-488d-81be-5c861c2fd477)
+
 User Account Control>Never Notify
+![image](https://github.com/ccafer/nessus_scanner/assets/61919465/c057180f-e54c-429e-8fd7-b30cff15cf38)
+
 Registry Edit>Computer>HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\Policies\System
 Create new DWORD file named LocalAccountTokenFilterPolicy and modify binary value to 1
+![image](https://github.com/ccafer/nessus_scanner/assets/61919465/78ac9427-cf6f-4935-b750-441f52e21607)
+
+Configure creditentials 
+![image](https://github.com/ccafer/nessus_scanner/assets/61919465/370eb025-bbf7-44ff-8c14-c4a1d2b72ba8)
+Restart scan
+![image](https://github.com/ccafer/nessus_scanner/assets/61919465/3e988754-85e6-4e27-9691-15f818208f4f)
 
 
 
